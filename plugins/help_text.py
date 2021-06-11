@@ -62,7 +62,7 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('✍🏻Rename, callback_data = "rnme"),
+                    InlineKeyboardButton('✍🏻Rename', callback_data = "rnme"),
                     InlineKeyboardButton('🍿File To Video', callback_data = "f2v")
                 ],
                 [
