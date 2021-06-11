@@ -28,7 +28,7 @@ from helper_funcs.help_Nekmo_ffmpeg import take_screen_shot
 from pyrogram.types import InlineKeyboardButton
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.errors import UserNotParticipant, UserBannedInChannel 
-from pyrogram import Client as Mai_bOTs 
+from pyrogram import Client as MALLUZHUB 
 
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
@@ -46,11 +46,11 @@ async def convert_to_video(bot, update):
                await update.reply_text(" Sorry, You are **B A N N E D**")
                return
         except UserNotParticipant:
-            #await update.reply_text(f"Join @{update_channel} To Use Me")
+            #await update.reply_text(f"Join @MALLUZHUB And support")
             await update.reply_text(
                 text="**Please Join My Update Channel Before Using Me..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="🔔Join My Updates Channel🔔", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🖤Join My Updates Channel🖤", url=f"https://t.me/MALLUZHUB")]
               ])
             )
             return  
@@ -89,7 +89,7 @@ async def convert_to_video(bot, update):
           #  )
             logger.info(the_real_download_location)
             # get the correct width, height, and duration for videos greater than 10MB
-            # ref: message from @Mo_Tech_Group
+            # ref: message from @MALLUZHUB
             width = 0
             height = 0
             duration = 0
