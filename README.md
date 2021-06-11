@@ -2,12 +2,12 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
+  <a href="https://github.com/mhautofilterv5/newrenamepro.git/stargazers">
     <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rename-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-Rename-Bot/fork">
+  <a href="https://github.com/mhautofilterv5/newrenamepro.git/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rename-Bot?label=Fork&style=social">
 
   </a>  
